@@ -1,0 +1,805 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"navba",
+				"navbar-brand"
+			],
+			[
+				"img",
+				"img7"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"magi",
+				"margin-top\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"mate",
+				"materiaUm"
+			],
+			[
+				"seleciona",
+				"selecionaAluno"
+			],
+			[
+				"tur",
+				"turmaDoProfessor"
+			],
+			[
+				"p",
+				"professorResp"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"cadas",
+				"cadastraTurma"
+			],
+			[
+				"cadast",
+				"cadastrarProfessor"
+			],
+			[
+				"con",
+				"confirmaSenha"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"fun",
+				"funcionario"
+			],
+			[
+				"coo",
+				"coordy2"
+			],
+			[
+				"coor",
+				"coordy"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"cl",
+				"clientY"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"sen",
+				"senhaY"
+			],
+			[
+				"senha",
+				"senhaX"
+			],
+			[
+				"se",
+				"senhaX"
+			],
+			[
+				"clin",
+				"clientY"
+			],
+			[
+				"cli",
+				"clientX"
+			],
+			[
+				"onmo",
+				"onmousedown"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"ser",
+				"services"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			],
+			[
+				"re",
+				"respostas"
+			],
+			[
+				"respot",
+				"respostaErrada"
+			],
+			[
+				"respost",
+				"respostaCerta"
+			],
+			[
+				"respo",
+				"respostaCerta"
+			],
+			[
+				"resposta",
+				"respostaErrada"
+			],
+			[
+				"altu",
+				"altura"
+			],
+			[
+				"al",
+				"altura"
+			],
+			[
+				"sess",
+				"sessionStorage"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"exi",
+				"exibeTela"
+			],
+			[
+				"faz",
+				"faznada2"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"Pessoa",
+				"PessoaFisica"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"co",
+				"constructor"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"let",
+				"length"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"sexo",
+				"Sexo"
+			],
+			[
+				"cima",
+				"cimaesquerda"
+			],
+			[
+				"po",
+				"positionh"
+			],
+			[
+				"pi",
+				"positionv"
+			],
+			[
+				"dire",
+				"directionh"
+			],
+			[
+				"pos",
+				"positionh"
+			],
+			[
+				"posti",
+				"positionh"
+			],
+			[
+				"posit",
+				"positionh"
+			],
+			[
+				"baixo",
+				"baixodireita"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"position",
+				"positionv"
+			],
+			[
+				"posi",
+				"positionv"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"f",
+				"font-family\tproperty"
+			],
+			[
+				"ten",
+				"text-align\tproperty"
+			],
+			[
+				"col-",
+				"col-lg-6"
+			],
+			[
+				"border-col",
+				"border-color\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"bacground-c",
+				"background-color\tproperty"
+			],
+			[
+				"backgo",
+				"background-color\tproperty"
+			],
+			[
+				"bacg",
+				"background-color\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"boder-c",
+				"border-color\tproperty"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"E",
+				"E89F1E"
+			],
+			[
+				"backgro",
+				"background-image\tproperty"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"gri",
+				"grid-template-areas\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fotn",
+				"font-size\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"grid",
+				"grid-row\tproperty"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"mag",
+				"margin-top\tproperty"
+			],
+			[
+				"c",
+				"col-sm-6"
+			],
+			[
+				"col-md",
+				"col-md-12"
+			],
+			[
+				"border",
+				"border-width\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"bo",
+				"bootstrap"
+			],
+			[
+				"grid-t",
+				"grid-template-areas\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"ta",
+				"table\tdisplay"
+			],
+			[
+				"bran",
+				"brancot"
+			],
+			[
+				"m",
+				"maya"
+			],
+			[
+				"box-",
+				"box-shadow\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"fot",
+				"font-family\tproperty"
+			],
+			[
+				"t",
+				"table\tdisplay"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"grid-row",
+				"grid-row-gap\tproperty"
+			],
+			[
+				"grid-c",
+				"grid-column-gap\tproperty"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"fe",
+				"flex-start\tjustify-content"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"border-lef",
+				"border-left-width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"run"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/rodri/Desktop/Trampo Faculdade/React-Native-Note-App-master/index.js",
+		"/C/Users/rodri/Desktop/Trampo facul/controle-estoque-react-master/app/App.js",
+		"/C/Users/rodri/Desktop/Trampo facul/controle-estoque-react-master/app/components/Home.js",
+		"/C/Users/rodri/Desktop/Trampo facul/controle-estoque-react-master/public/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA1/CONTEUDO/main.js",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA3/CONTEUDO/js.js",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA3/CONTEUDO/index.html",
+		"/C/Users/rodri/Desktop/AJM/ajm/index - Copia.html",
+		"/C/Users/rodri/Desktop/AJM/ajm/teste1.html",
+		"/C/Users/rodri/Desktop/AJM/ajm/about.html",
+		"/C/Users/rodri/Desktop/AJM/ajm/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/PROJETO FINAL 2.0/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/PROJETO FINAL 2.0/aluno.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/PROJETO FINAL 2.0/funcionario.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/PROJETO FINAL 2.0/login.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/PROJETO FINAL 2.0/master.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/PROJETO FINAL 2.0/professor.html",
+		"/C/Users/rodri/Desktop/AJM/ajm/contact.html",
+		"/C/Users/rodri/Desktop/AJM/ajm/services.html",
+		"/C/Users/rodri/Downloads/pedido.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/funcionario.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/login.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/index.html",
+		"/C/Users/rodri/Desktop/AJM/ajm/404.html",
+		"/C/Users/rodri/Desktop/AJM/ajm/pixel.css",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/HTML CSS/AULA8/Projeto Final HTML CSS/home/index.html",
+		"/C/Users/rodri/Desktop/ESTACIONAMENTO AJM/startbootstrap-modern-business-gh-pages/contact.html",
+		"/C/Users/rodri/Desktop/ESTACIONAMENTO AJM/startbootstrap-modern-business-gh-pages/services.html",
+		"/C/Users/rodri/Desktop/ESTACIONAMENTO AJM/startbootstrap-modern-business-gh-pages/index.html",
+		"/C/Users/rodri/Desktop/ESTACIONAMENTO AJM/startbootstrap-modern-business-gh-pages/gulpfile.js",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/professor.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/master.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/aluno.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA9/WORKHOME/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA9/WORKHOME/verifica.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/cadastroCanvas.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/projetoZip/aluno.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/projetoZip/funcionario.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA10/WORKHOME/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA10/PROFESSOR/AULA10/DEVER/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA10/PROFESSOR/AULA10/DEVER/verifica.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA5/PROFESSOR/CorrecaoDever/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA5/PROFESSOR/CorrecaoDever/main.js",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/teste/projetoZip/funcionario.html",
+		"/C/Users/rodri/Desktop/teste.html",
+		"/C/Users/rodri/Desktop/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA10/CONTEUDO/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA9/PROFESSOR/AULA09/AULA09/Dever/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA5/WORKHOME/main.js",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA5/WORKHOME/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/WORKHOME/funfando/acessoaluno.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/WORKHOME/funfando/cadastro.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/WORKHOME/funfando/acessoprof.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/WORKHOME/funfando/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/WORKHOME/funfando/login.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA3/WORKHOME/main.js",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA3/WORKHOME/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/PROFESSOR/AULA07/TEMA/pagina2.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/PROFESSOR/AULA07/TEMA/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA9/PROFESSOR/AULA09/AULA09/Dever/acesso.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/consulta.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/teste/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/teste/cadastro.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/teste/acessoprof.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/teste/acessofuncionario.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/teste/acessoaluno.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/teste/login.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA2/Professor/AULA02/TEMA/main.js",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/teste/teste.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA4/PROFESSOR/JSAsabado/TEMA/INDEX.HTML",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA11/WOKHOME/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/BASES/consultas/main.js",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/cadastro.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/BASES/consultas/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/PROJETO FINAL/base.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA11/PROFESSOR/AULA11/TEMA/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/HTML CSS/AULA5/BS ONLINE/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/HTML CSS/AULA 3/conteudo/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA11/CONTEUDO/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA11/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA10/WORKHOME/index (5).html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA8/PROFESSOR/AULA08/TEMA/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA8/CONTEUDO/smile/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA9/CONTEUDO/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA8/CONTEUDO/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA9/CONTEUDO/acesso.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA8/WORKHOME/acesso.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA8/WORKHOME/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA8/CONTEUDO/smile/smile.png",
+		"/C/Users/rodri/Desktop/ESTACIONAMENTO AJM/startbootstrap-modern-business-gh-pages/about.html",
+		"/C/Users/rodri/Desktop/ESTACIONAMENTO AJM/startbootstrap-modern-business-gh-pages/fonte/css.css",
+		"/C/Users/rodri/Desktop/teste.php",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/HTML CSS/AULA8/Projeto Final HTML CSS/home/contact.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA8/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/PROFESSOR/AULA07/WORKHOME/2/acessoprof.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/PROFESSOR/AULA07/WORKHOME/2/acessoaluno.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/PROFESSOR/AULA07/WORKHOME/2/cadastro.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/PROFESSOR/AULA07/WORKHOME/2/login.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/PROFESSOR/AULA07/WORKHOME/2/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/PROFESSOR/AULA07/WORKHOME/2/acesso.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/WORKHOME/aluno.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/WORKHOME/professor.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/WORKHOME/cadastro.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/WORKHOME/login.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/WORKHOME/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/WORKHOME/acesso.html",
+		"/C/Users/rodri/Desktop/ESTACIONAMENTO AJM/startbootstrap-modern-business-gh-pages/portfolio-1-col.html",
+		"/C/Users/rodri/Desktop/ESTACIONAMENTO AJM/startbootstrap-modern-business-gh-pages/blog-home-1.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/HTML CSS/AULA8/Projeto Final HTML CSS/home/css/css.css",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/HTML CSS/AULA8/Projeto Final HTML CSS/home/css/fontes/css.css",
+		"/C/Users/rodri/Desktop/ESTACIONAMENTO AJM/startbootstrap-modern-business-gh-pages/css/css.css",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/PROFESSOR/AULA07/TEMA/TAREFA/login.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/PROFESSOR/AULA07/TEMA/TAREFA/cadastro.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/PROFESSOR/AULA07/TEMA/TAREFA/acesso.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/PROFESSOR/AULA07/TEMA/TAREFA/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/CONTEUDO/EXERCICIO/acesso.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/CONTEUDO/EXERCICIO/cadastro.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/CONTEUDO/EXERCICIO/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/CONTEUDO/pagina2.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/CONTEUDO/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA6/WORKHOME/WORKHOME/index.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/CONTEUDO/main.js",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/CORREÇÃO/records.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/CORREÇÃO/pergunta1.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/CORREÇÃO/pergunta2.html",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/CORREÇÃO/MAIN.JS",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/CORREÇÃO/INDEX.HTML",
+		"/C/CURSO/3TerceiroModuloJavaScript-HTML/JavaScript/AULA7/CORREÇÃO/main.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
